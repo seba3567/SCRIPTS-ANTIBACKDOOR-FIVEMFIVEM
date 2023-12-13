@@ -1,9 +1,3 @@
-# SCRIPT BAT RAPIDO QUE BLOQUEA IPS DE DISTINTOS PAISES COMO .COM Y .ME DONDE GENTE ESCORIA INTENTA METER BACKDOOR EN SCRIPTS DE FIVEM
-
-´saludos al amigo de nepal que inicio con mis credenciales´
-
-
-
 ´´ bloquea distintas ips de paises donde la tendencia de backdoor es mayor
     china
     rusia 
